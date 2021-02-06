@@ -24,3 +24,13 @@ Ficou curioso? Venha participar da nossa atividade e acompanhar o desenrolar do 
 
 Também teremos espaço para que as pessoas apresentem suas ideias e melhorias no projeto, rodando em modelo colaborativo.
 
+# Checklist
+- [ ] Chamada para comunidade
+- [ ] Organizar repositório e estrutura atividade
+- [ ] Primeiro encontro Março 2021
+- [ ] Documentar
+- [ ] Excecução e instalação dos sensores
+- [ ] Configurar Ambiente de monitoramento
+- [ ] Documentar evolução do projeto
+- [ ] ...
+
