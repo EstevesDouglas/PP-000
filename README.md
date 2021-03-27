@@ -34,3 +34,5 @@ Também teremos espaço para que as pessoas apresentem suas ideias e melhorias n
 - [ ] Documentar evolução do projeto
 - [ ] ...
 
+# Links
+Ideias para dashboards [Sensor.Community](https://sensor.community/es/)
